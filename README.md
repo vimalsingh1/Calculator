@@ -18,7 +18,7 @@ Clone this repository or download the calculator.py file.
 Open a terminal or command prompt.
 
 # Run the calculator:
-![Screenshot 2025-05-13 233614](https://github.com/user-attachments/assets/2cd89d9b-6c40-4bdd-a0b4-7c2884f3bb92)
+![image](https://github.com/user-attachments/assets/66ff020d-e350-4834-8c9a-b6d2ffc7a232)
 
 # Example Usage
 ![Screenshot 2025-05-13 233711](https://github.com/user-attachments/assets/613d831b-ae02-48d3-bce0-2d9272bfa9a3)
